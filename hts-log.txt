@@ -1,169 +1,338 @@
-HTTrack3.49-2+htsswf+htsjava launched on Sat, 31 Aug 2024 19:21:16 at https://www.testcard.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*[name].framerusercontent.com/*
-(winhttrack -qiC2t%Pns2u1%s%uN0%I0p7DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.testcard.com/ -O1 "C:\Users\Sukuna\Desktop\sites\testcardv2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*[name].framerusercontent.com/* )
-
-Information, Warnings and Errors reported for this mirror:
-note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
-	such as username/password authentication for websites mirrored in this project
-	do not share these files/folders if you want these information to remain private
-
-19:22:18	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://www.testcard.com/)
-19:24:32	Error: 	"Not Found" (404) at link https://www.testcard.com/[object Object] (from https://www.testcard.com/where-to-buy)
-19:25:19	Warning: 	Unable to test https://www.nhs.uk/planners/pregnancycareplanner/documents/bandbf_pelvic_floor_women.pdf (loop to same filename)
-19:25:19	Warning: 	link is probably looping, type unknown, aborting: https://www.nhs.uk/planners/pregnancycareplanner/documents/bandbf_pelvic_floor_women.pdf
-19:25:26	Warning: 	Unable to test https://www.nhs.uk/planners/pregnancycareplanner/documents/bandbf_pelvic_floor_women.pdf (loop to same filename)
-19:25:26	Warning: 	link is probably looping, type unknown, aborting: https://www.nhs.uk/planners/pregnancycareplanner/documents/bandbf_pelvic_floor_women.pdf
-19:25:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/chunk-5MRFIFFE.mjs
-19:25:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/LIULUkseAD1V2tM0bdEunsOOT0.webp
-19:25:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/ZxRErnsyqJTfd9vZ9Yr7TY5gZ8.webp
-19:25:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/WPq9p8KcrxCuYJ3Sdzhjno61g.webp
-19:25:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/WwuUPXWQN44mWLled1NicT9AkjU.webp?scale-down-to=1024
-19:25:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/92I9NJDBoDgysBqvcn5WJXimZ5U.webp
-19:25:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/imvi89MEJvuSEDK24FqrJn43E6g.webp
-19:25:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/0DVFIWOyn4jFAZS3LhzZoOtzzQ.webp
-19:25:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/l3oty44WbG2lI64LuzcEgsb3X4.webp
-19:25:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/yuZhkZ0mQTGij6c5UMoolawQ.webp
-19:25:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/-sN8AYzIyi9TShyatZFE2gT6Ay2JcJkDicq7Y8o5OrI.GD5DMPFD.mjs
-19:25:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/chunk-JPO7QEDX.mjs
-19:25:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/chunk-IXIE3G3B.mjs
-19:25:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/Zm1YJ11aVB8dtRBQIVdzbpsko.png
-19:25:51	Error: 	"" (404) at link https://www.testcard.com/[object Object] (from https://www.testcard.com/where-to-buy)
-19:25:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/3uEchOhksKXtPSRioXREFrkwsPI.webp
-19:25:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/PVk6RAORYH8gFUQoiIPLO6ED4F0.webp
-19:25:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/EgDcLWMg6myzZ-6YWhzCs4vmQZL1qIeetU4vY2LwrEY.IXSWIVNZ.mjs
-19:25:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/chunk-X5ZRSQZJ.mjs
-19:25:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/chunk-DWGGDZZO.mjs
-19:25:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/chunk-TSSB44FP.mjs
-19:25:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/pGRF6472NpUjXJJPXKOrk7lWSE4.png
-19:25:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/ZkKb0OYh7IWZnl5ckdmWRHxD6g.png
-19:26:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/YnZc9mEAaKQfISDCKfDBncPIzk.png
-19:26:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/2FaiRmUbXVzrKHN9jOjhEFWUG4.webp
-19:26:01	Warning: 	HTML file (340850 bytes) retransferred due to lack of cache: https://www.testcard.com/supported-devices
-19:26:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/dgR3PC5TR5R9cfxWaUC0k4JZHg.webp
-19:26:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/mxHl1Z6g2tNqjnPMwDJjvP2VvVY.webp
-19:26:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/KI8BHXIPxYli10lGccBAutGzs.webp
-19:26:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/V3Kg0pAs9UY0BQW3jrDtqJjP5Fs.png
-19:26:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/UlQqgFlGuaho5w6vt4g8ZSFPE.png
-19:26:08	Warning: 	HTML file (264639 bytes) retransferred due to lack of cache: https://www.testcard.com/blog/how-testcard-technology-gives-clinical-grade-results
-19:26:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/7mstPWBzHHCDGFM8F3SiCWo4nU.webp
-19:26:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/CDTPzueqf4FmYREwv6SyQvJcEU.png
-19:26:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/EeCtdfmulcVc1d1gKU-1Q2_ulvVseXQ07L0T-byv1Rc.H7S4QNE3.mjs
-19:26:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/A9sDRhbjITEbwYwSRIom4sYRfY.webp
-19:26:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/chunk-KU6HJZT7.mjs
-19:26:15	Warning: 	HTML file (271630 bytes) retransferred due to lack of cache: https://www.testcard.com/blog/support-a-partner-with-uti
-19:26:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/b5mWUCQYZwomW1t2ujkEAnRE34.png
-19:26:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/B0JMiJfIFyOYtzHdRyY48qEwIc.jpg
-19:26:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/Uvb3SFFk8lL10HhXTnnSWAjfSdQ.jpeg
-19:26:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/mCUmLs6C1KsBvY2M161wFZuNY.jpg
-19:26:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/wleHBVVb55cEtNz1ua98x0xHU.jpg
-19:26:24	Warning: 	HTML file (263790 bytes) retransferred due to lack of cache: https://www.testcard.com/blog/womens-health-strategy
-19:26:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/EpepJAMPZfW6aNc4tFSdx7VgQhI.jpg
-19:26:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/G4uNOgKLZLxWEi2oOZTTjkwRs.jpg
-19:26:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/V8n43UGng2M6Uf9Dey4SqhD6dQ.jpg
-19:26:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/iWcRaljvJFAxoymtnMAHQLBLn4.jpg
-19:26:29	Warning: 	HTML file (266002 bytes) retransferred due to lack of cache: https://www.testcard.com/blog/urology-awareness-month
-19:26:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/fo3VCwnloVwh03Z2ywgT4A2pIk.jpg
-19:26:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/bc4E7rwiZ3zH2XuxfaGxynWP0.jpeg
-19:26:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/P0ZgGhK9GLermCi5lL3ZwV5DafY.jpg
-19:26:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/Y53rrMSmaml7CQXIOXGHbOvh7E0.jpg
-19:26:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/dei1XtTIFARUHaKMbrPkwFULHg.jpg
-19:26:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/4P27w17x1VNpV1Suh1gxTyCY0zc.jpg
-19:26:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/JaIe9aCA5lt8Y1fyq8FJs7VS0cg.jpg
-19:26:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/WxZnysYzz6oupUiq63Un1K9Qs.jpg
-19:26:36	Warning: 	HTML file (267865 bytes) retransferred due to lack of cache: https://www.testcard.com/blog/catheterisation-and-ut-is
-19:26:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/9v8nv236nwgAfxMB5TOLPhbLK0.jpg
-19:26:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/cCehqK3PfDpQDkrR5psBo7dAE.jpg
-19:26:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/17xWqPAVMGvfj4OEI47b66ghfs.jpg
-19:26:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/T6CWbX0JOY9qafKh2fabliKQvI.jpg
-19:26:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/mjtL4xjllyQSdgvfYRPzQMXOs4.jpg
-19:26:41	Warning: 	HTML file (272538 bytes) retransferred due to lack of cache: https://www.testcard.com/blog/is-testcard-right-for-me
-19:26:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/oOcSKB1cbu3fHxF6cvsPIWJug.jpg
-19:26:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/nfQuCU96gzMTDg8Sa1rqEnDD4Jc.jpg
-19:26:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/xTLDorQ2AtrEFUJaYqevo1KKtHQ.jpg
-19:26:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/9Yp6MK4KU64t3qiEMDSadf5Bc.jpg
-19:26:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/z9KHFwrJzzvCXY0v6zYmZZBK2RI.jpg
-19:26:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/JETyhefzDajZFu1ntJovwgxjlA.jpg
-19:26:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/Vjmb8JtlSnb0TgfAb9vo4uP2vHap_uMF2BwQNc9-k9w.BXM5HOQN.mjs
-19:26:45	Warning: 	HTML file (265773 bytes) retransferred due to lack of cache: https://www.testcard.com/blog/here-comes-the-science-bit
-19:26:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/BtFZeOUxqT_3yZzgnxMdus751l8E8obs9-_VoHO-m3s.AN3HFENM.mjs
-19:26:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/1mDQyx4QbIWCwbUfvCQWth1bx0ExYtCCVw3u2bo7f20.C2NKFKBQ.mjs
-19:26:53	Warning: 	HTML file (269510 bytes) retransferred due to lack of cache: https://www.testcard.com/blog/do-your-sex-positions-cause-uti
-19:27:35	Warning: 	HTML file (268031 bytes) retransferred due to lack of cache: https://www.testcard.com/blog/health-kick-mocktail
-19:27:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/nZD2_0gDzjzT1JOlvwqJOp3fE6rX0IC5e2pJ3Ge90i8.SOM6AUQH.mjs
-19:27:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/ToeeCNTAKRXGrF_vJjgRTwi1U_zM3dO1EBl8vpi5ujk.O4BDNBMM.mjs
-19:27:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/zg9EaMlwY38gtvGCoBiuTzyhfA.png
-19:27:41	Warning: 	HTML file (268020 bytes) retransferred due to lack of cache: https://www.testcard.com/blog/can-men-get-utis-too
-19:27:48	Warning: 	HTML file (326525 bytes) retransferred due to lack of cache: https://www.testcard.com/blog/urinary-tract-infection-101
-19:27:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/e9nTGY806aOPAgErw32kWcnFs.png
-19:27:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/mKzjvdnXpJ1c38ENNL9XbDayY.png
-19:27:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/CFOOCxYpZm6ExEUUz6GpVUw.webp
-19:27:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/VrC7ju7gxNQ4SBtDO9L3bgGoramfH1EUTrzj9IfmGI4.3WMHMZZV.mjs
-19:27:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/2MFsvqXnweWKf1OMcQ2Lmn8dRE.png
-19:27:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/LAZ6H5aXj6b5iZ6wsntOIgEsLvQ.jpg
-19:27:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/OKEhbX7j8qnTwpvz30KGPDocOSs.png
-19:27:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/UFmaPzw5WdjkmV4e6Y7M9YDy3s.jpg
-19:27:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/g8XqeVrtRc9F4cdLhRUvzxR6uSg.png
-19:27:58	Warning: 	HTML file (270091 bytes) retransferred due to lack of cache: https://www.testcard.com/blog/world-mental-health-day
-19:27:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/eSpeyiFwzbyiIpFVldj4bHr4ig4.png
-19:27:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/qh8gCQRf6V26VkcqJCm1eR5gc.png
-19:28:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/gJsHsQ8xBvfEVX46uVRBkoBzY.png
-19:28:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/q4XeyGAJ9thSR693YsIK3vl4r7Q.png
-19:28:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/3PYMFsgRWVm5bNrtRscNwmH1c.png
-19:28:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/E5gELwPRjWPlC1KPv9dF7ehoLpk.png
-19:28:03	Warning: 	Unable to test https://www.nhs.uk/planners/pregnancycareplanner/documents/bandbf_pelvic_floor_women.pdf (loop to same filename)
-19:28:03	Warning: 	link is probably looping, type unknown, aborting: https://www.nhs.uk/planners/pregnancycareplanner/documents/bandbf_pelvic_floor_women.pdf
-19:28:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/Nwriz2skNEKkZu5vXqpGGCKfpY.png
-19:28:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/5mm1cJfvOsfRwqztye1swYLTX6s.jpg
-19:28:08	Warning: 	HTML file (265933 bytes) retransferred due to lack of cache: https://www.testcard.com/blog/cystitis-test-symptoms-and-treatment
-19:28:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/we9jpJtToLMxHwjeEC7tbmzHds.jpg
-19:28:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/Kl82UG0gxUnmmmgIfor8VSdsGAE.png
-19:28:16	Warning: 	HTML file (261137 bytes) retransferred due to lack of cache: https://www.testcard.com/blog/uti-infections-during-menopause
-19:28:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/FaCNMYSyhHg-M3chBi548H-pfOTbBWCllQguTJOKUH0.FRMQ3ESN.mjs
-19:28:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/Gia1wUP4pqR2Ow4lY9O1/VHuROl1N9HXETrED5CYk/W9unHulOG.js
-19:28:23	Warning: 	HTML file (263407 bytes) retransferred due to lack of cache: https://www.testcard.com/blog/tips-for-carers-understanding-symptoms
-19:28:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/u2Hu1y9ORYd6KxEiJZx0/LxTNkq1lARgRJOPFI1jC/qMNZjk7PJ.js
-19:28:30	Warning: 	HTML file (262488 bytes) retransferred due to lack of cache: https://www.testcard.com/blog/cystitis-what-is-it-and-how-do-i-get-help
-19:28:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/b6K1oC1uccZPpTstCvMu/A5k7bC630NoZDR1N49eD/D_oMfni3U.js
-19:28:37	Warning: 	HTML file (264544 bytes) retransferred due to lack of cache: https://www.testcard.com/blog/utisandpregnancy
-19:28:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/OlCmeN4XZZJTWTlPfjGm/24lsClR7gMHDU7lEPdc8/Or2sBBfI_.js
-19:28:49	Warning: 	HTML file (262347 bytes) retransferred due to lack of cache: https://www.testcard.com/blog/confusion-around-utis-sees-women-mistaking-symptoms
-19:28:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/ucoZx7m40kQxkdbvPahI/xs4yI6w2UXC9jWgMRn0T/fyxHY82ZH.js
-19:28:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/epgbwiBwl3tArWHIOZdM/p79gF90WLbWcEen2ZWd5/LjoRI99kP.js
-19:28:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/jpxTYlg8J7j8zPMbZVpF/e9Fe6hD7WkGFSF8ulX5j/M81GEfmDX.js
-19:28:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/DEt5THHDu8mZsxXjQgB3/vmE7PK3is9uknFNkqna9/pENU14rIX.js
-19:28:58	Warning: 	HTML file (262602 bytes) retransferred due to lack of cache: https://www.testcard.com/blog/top-new-health-trends-for-2021
-19:28:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/kjmjrlbXlFzY877fS1ck/yX63S0J9YzWjteNI0jcx/sSi9d5mj6.js
-19:29:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/fHtX6Kqeh4qtGd3ScnV7/4GrfDcMljbkaZ16KmKRL/aGppwdNJt.js
-19:29:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/Knk5JIIexJavyUQUuC7v/F9Phfob1Y5DlATjfA4Rd/Ho_WoE6nO.js
-19:29:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/V2DRFsQiVxRwCjLNx8uN/Md5ruDNRHzk9sH2GRGBX/fMGAOSjoO.js
-19:29:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/CVZsmcR8arLwjzdGNLpK/nHFcpyNxOcXoggM8gF8M/YwXLCv8q4.js
-19:29:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/OVPIKg9SqTKLYD2fRPAF/5sldwpkloGXl3ftz55VY/rAR4SD3aA.js
-19:29:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/AGt0jAlxnlx75tDtw4Na/XnhIwtiNz8irSx2LaucO/owro08sGw.js
-19:29:07	Warning: 	HTML file (261827 bytes) retransferred due to lack of cache: https://www.testcard.com/blog/common-myths-about-utis-that-may-be-damaging-your-health
-19:29:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/b8aeeOK8tZBMHJHGUdFX/pqiPZZn74wzWxDQMkLlG/cs6w6lDlb.js
-19:29:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/E4LNkxrytRtwp0F50RVq/sTg7dG9qTTXMmQWkGNy2/aImOJki8P.js
-19:29:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/POaFmgybOjAbEIIlrVDm/eRmGoxXdxJT5kRNehCst/TdU3sThp3.js
-19:29:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/XUi3Sok9Z1wuYPxuQFG3/2QC5eDw9ZrMmK948zB2V/AomqHaOxD.js
-19:29:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/m1ZD9HQdXdpO2wlCWpnm/cXLHbhMQraGbmPelOQtU/KBlFSas6i.js
-19:29:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/9zRwI9mwTWu6RWDulFVr/Rd8Q7c8QKO7fmko3vfcp/asxNLoHzW.js
-19:29:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/TasCLN67Tz5cgDoHLZyH/G2e10Jv6JvLyxqojlQve/wPmQ_yRaQ.js
-19:29:13	Warning: 	HTML file (266280 bytes) retransferred due to lack of cache: https://www.testcard.com/blog/nutrition-and-hydration-week
-19:29:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/lWBoG4MHb8YIB0GThFGe/SPekZ4IgzX59Yw95yf13/vndjQ0vUm.js
-19:29:17	Warning: 	HTML file (271274 bytes) retransferred due to lack of cache: https://www.testcard.com/blog/world-continence-week
-19:29:21	Warning: 	Unable to test https://www.nhs.uk/planners/pregnancycareplanner/documents/bandbf_pelvic_floor_women.pdf (loop to same filename)
-19:29:21	Warning: 	link is probably looping, type unknown, aborting: https://www.nhs.uk/planners/pregnancycareplanner/documents/bandbf_pelvic_floor_women.pdf
-19:29:21	Warning: 	HTML file (272024 bytes) retransferred due to lack of cache: https://www.testcard.com/blog/does-drinking-cranberry-juice-help-prevent-uti
-19:29:25	Warning: 	HTML file (275545 bytes) retransferred due to lack of cache: https://www.testcard.com/blog/are-antibiotics-safe-for-uti-pregnancy
-19:29:27	Warning: 	HTML file (275061 bytes) retransferred due to lack of cache: https://www.testcard.com/blog/how-to-prevent-uti-after-menopause
-19:29:29	Warning: 	HTML file (264368 bytes) retransferred due to lack of cache: https://www.testcard.com/blog/how-do-doctors-test-for-uti
-19:29:34	Warning: 	HTML file (261354 bytes) retransferred due to lack of cache: https://www.testcard.com/blog/learn-how-to-test-detect-a-uti-the-at-home-test-kit
-19:29:41	Warning: 	HTML file (263143 bytes) retransferred due to lack of cache: https://www.testcard.com/blog/learn-how-to-test-detect-a-uti-gps-vs-at-home-testing
-19:29:45	Error: 	"Not Found" (404) at link https://static.googleusercontent.com/media/try.crashlytics.com/en//terms/privacy-policy.pdf (from https://www.testcard.com/cookie-policy)
-19:29:45	Warning: 	HTML file (359998 bytes) retransferred due to lack of cache: https://www.testcard.com/blog-filters/symptoms-and-risks
-19:29:56	Error: 	"Not Found" (404) at link https://elmor.com.mx/ARTICULOS/IRCILUS/EAU-Guidelines-on-Urological-infections-2020.pdf (from https://www.testcard.com/blog/support-a-partner-with-uti)
-19:29:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://framerusercontent.com/images/Lm7MCFJqpsYsEyBRyIvsykkDtM.png (from https://www.testcard.com/blog/here-comes-the-science-bit)
-19:29:56	Warning: 	HTML file (240261 bytes) retransferred due to lack of cache: https://www.testcard.com/blog-filters/health-tech
-19:29:59	Error: 	"Not Found" (404) at link https://www.total-wellness.co.uk/wp-content/uploads/Alkalising-Food-Chart.pdf (from https://www.testcard.com/blog/nutrition-and-hydration-week)
-19:29:59	Error: 	"Not Found" (404) at link https://www.theurologyfoundation.org/images/World_Continence_Week/WCW19_Incontinence_the_causes_download.pdf (from https://www.testcard.com/blog/world-continence-week)
-
-HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 43 seconds : 293 links scanned, 427 files written (51808245 bytes overall), 425 files updated [30918664 bytes received at 59117 bytes/sec], 25557629 bytes transferred using HTTP compression in 170 files, ratio 14%, 3.0 requests per connection
-(7 errors, 151 warnings, 0 messages)
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 31 Aug 2024 19:21:16 at https://home/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*[name].framerusercontent.com/*
+
+(winhttrack -qiC2t%Pns2u1%s%uN0%I0p7DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://home/ -O1 "C:\Users\Sukuna\Desktop\sites\testcardv2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*[name].framerusercontent.com/* )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+19:22:18	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://home/)
+
+19:24:32	Error: 	"Not Found" (404) at link https://home/[object Object] (from https://home/where-to-buy)
+
+19:25:19	Warning: 	Unable to test https://www.nhs.uk/planners/pregnancycareplanner/documents/bandbf_pelvic_floor_women.pdf (loop to same filename)
+
+19:25:19	Warning: 	link is probably looping, type unknown, aborting: https://www.nhs.uk/planners/pregnancycareplanner/documents/bandbf_pelvic_floor_women.pdf
+
+19:25:26	Warning: 	Unable to test https://www.nhs.uk/planners/pregnancycareplanner/documents/bandbf_pelvic_floor_women.pdf (loop to same filename)
+
+19:25:26	Warning: 	link is probably looping, type unknown, aborting: https://www.nhs.uk/planners/pregnancycareplanner/documents/bandbf_pelvic_floor_women.pdf
+
+19:25:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/chunk-5MRFIFFE.mjs
+
+19:25:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/LIULUkseAD1V2tM0bdEunsOOT0.webp
+
+19:25:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/ZxRErnsyqJTfd9vZ9Yr7TY5gZ8.webp
+
+19:25:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/WPq9p8KcrxCuYJ3Sdzhjno61g.webp
+
+19:25:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/WwuUPXWQN44mWLled1NicT9AkjU.webp?scale-down-to=1024
+
+19:25:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/92I9NJDBoDgysBqvcn5WJXimZ5U.webp
+
+19:25:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/imvi89MEJvuSEDK24FqrJn43E6g.webp
+
+19:25:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/0DVFIWOyn4jFAZS3LhzZoOtzzQ.webp
+
+19:25:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/l3oty44WbG2lI64LuzcEgsb3X4.webp
+
+19:25:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/yuZhkZ0mQTGij6c5UMoolawQ.webp
+
+19:25:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/-sN8AYzIyi9TShyatZFE2gT6Ay2JcJkDicq7Y8o5OrI.GD5DMPFD.mjs
+
+19:25:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/chunk-JPO7QEDX.mjs
+
+19:25:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/chunk-IXIE3G3B.mjs
+
+19:25:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/Zm1YJ11aVB8dtRBQIVdzbpsko.png
+
+19:25:51	Error: 	"" (404) at link https://home/[object Object] (from https://home/where-to-buy)
+
+19:25:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/3uEchOhksKXtPSRioXREFrkwsPI.webp
+
+19:25:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/PVk6RAORYH8gFUQoiIPLO6ED4F0.webp
+
+19:25:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/EgDcLWMg6myzZ-6YWhzCs4vmQZL1qIeetU4vY2LwrEY.IXSWIVNZ.mjs
+
+19:25:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/chunk-X5ZRSQZJ.mjs
+
+19:25:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/chunk-DWGGDZZO.mjs
+
+19:25:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/chunk-TSSB44FP.mjs
+
+19:25:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/pGRF6472NpUjXJJPXKOrk7lWSE4.png
+
+19:25:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/ZkKb0OYh7IWZnl5ckdmWRHxD6g.png
+
+19:26:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/YnZc9mEAaKQfISDCKfDBncPIzk.png
+
+19:26:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/2FaiRmUbXVzrKHN9jOjhEFWUG4.webp
+
+19:26:01	Warning: 	HTML file (340850 bytes) retransferred due to lack of cache: https://home/supported-devices
+
+19:26:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/dgR3PC5TR5R9cfxWaUC0k4JZHg.webp
+
+19:26:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/mxHl1Z6g2tNqjnPMwDJjvP2VvVY.webp
+
+19:26:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/KI8BHXIPxYli10lGccBAutGzs.webp
+
+19:26:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/V3Kg0pAs9UY0BQW3jrDtqJjP5Fs.png
+
+19:26:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/UlQqgFlGuaho5w6vt4g8ZSFPE.png
+
+19:26:08	Warning: 	HTML file (264639 bytes) retransferred due to lack of cache: https://home/blog/how-testcard-technology-gives-clinical-grade-results
+
+19:26:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/7mstPWBzHHCDGFM8F3SiCWo4nU.webp
+
+19:26:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/CDTPzueqf4FmYREwv6SyQvJcEU.png
+
+19:26:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/EeCtdfmulcVc1d1gKU-1Q2_ulvVseXQ07L0T-byv1Rc.H7S4QNE3.mjs
+
+19:26:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/A9sDRhbjITEbwYwSRIom4sYRfY.webp
+
+19:26:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/chunk-KU6HJZT7.mjs
+
+19:26:15	Warning: 	HTML file (271630 bytes) retransferred due to lack of cache: https://home/blog/support-a-partner-with-uti
+
+19:26:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/b5mWUCQYZwomW1t2ujkEAnRE34.png
+
+19:26:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/B0JMiJfIFyOYtzHdRyY48qEwIc.jpg
+
+19:26:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/Uvb3SFFk8lL10HhXTnnSWAjfSdQ.jpeg
+
+19:26:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/mCUmLs6C1KsBvY2M161wFZuNY.jpg
+
+19:26:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/wleHBVVb55cEtNz1ua98x0xHU.jpg
+
+19:26:24	Warning: 	HTML file (263790 bytes) retransferred due to lack of cache: https://home/blog/womens-health-strategy
+
+19:26:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/EpepJAMPZfW6aNc4tFSdx7VgQhI.jpg
+
+19:26:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/G4uNOgKLZLxWEi2oOZTTjkwRs.jpg
+
+19:26:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/V8n43UGng2M6Uf9Dey4SqhD6dQ.jpg
+
+19:26:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/iWcRaljvJFAxoymtnMAHQLBLn4.jpg
+
+19:26:29	Warning: 	HTML file (266002 bytes) retransferred due to lack of cache: https://home/blog/urology-awareness-month
+
+19:26:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/fo3VCwnloVwh03Z2ywgT4A2pIk.jpg
+
+19:26:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/bc4E7rwiZ3zH2XuxfaGxynWP0.jpeg
+
+19:26:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/P0ZgGhK9GLermCi5lL3ZwV5DafY.jpg
+
+19:26:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/Y53rrMSmaml7CQXIOXGHbOvh7E0.jpg
+
+19:26:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/dei1XtTIFARUHaKMbrPkwFULHg.jpg
+
+19:26:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/4P27w17x1VNpV1Suh1gxTyCY0zc.jpg
+
+19:26:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/JaIe9aCA5lt8Y1fyq8FJs7VS0cg.jpg
+
+19:26:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/WxZnysYzz6oupUiq63Un1K9Qs.jpg
+
+19:26:36	Warning: 	HTML file (267865 bytes) retransferred due to lack of cache: https://home/blog/catheterisation-and-ut-is
+
+19:26:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/9v8nv236nwgAfxMB5TOLPhbLK0.jpg
+
+19:26:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/cCehqK3PfDpQDkrR5psBo7dAE.jpg
+
+19:26:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/17xWqPAVMGvfj4OEI47b66ghfs.jpg
+
+19:26:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/T6CWbX0JOY9qafKh2fabliKQvI.jpg
+
+19:26:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/mjtL4xjllyQSdgvfYRPzQMXOs4.jpg
+
+19:26:41	Warning: 	HTML file (272538 bytes) retransferred due to lack of cache: https://home/blog/is-testcard-right-for-me
+
+19:26:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/oOcSKB1cbu3fHxF6cvsPIWJug.jpg
+
+19:26:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/nfQuCU96gzMTDg8Sa1rqEnDD4Jc.jpg
+
+19:26:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/xTLDorQ2AtrEFUJaYqevo1KKtHQ.jpg
+
+19:26:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/9Yp6MK4KU64t3qiEMDSadf5Bc.jpg
+
+19:26:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/z9KHFwrJzzvCXY0v6zYmZZBK2RI.jpg
+
+19:26:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/JETyhefzDajZFu1ntJovwgxjlA.jpg
+
+19:26:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/Vjmb8JtlSnb0TgfAb9vo4uP2vHap_uMF2BwQNc9-k9w.BXM5HOQN.mjs
+
+19:26:45	Warning: 	HTML file (265773 bytes) retransferred due to lack of cache: https://home/blog/here-comes-the-science-bit
+
+19:26:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/BtFZeOUxqT_3yZzgnxMdus751l8E8obs9-_VoHO-m3s.AN3HFENM.mjs
+
+19:26:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/1mDQyx4QbIWCwbUfvCQWth1bx0ExYtCCVw3u2bo7f20.C2NKFKBQ.mjs
+
+19:26:53	Warning: 	HTML file (269510 bytes) retransferred due to lack of cache: https://home/blog/do-your-sex-positions-cause-uti
+
+19:27:35	Warning: 	HTML file (268031 bytes) retransferred due to lack of cache: https://home/blog/health-kick-mocktail
+
+19:27:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/nZD2_0gDzjzT1JOlvwqJOp3fE6rX0IC5e2pJ3Ge90i8.SOM6AUQH.mjs
+
+19:27:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/ToeeCNTAKRXGrF_vJjgRTwi1U_zM3dO1EBl8vpi5ujk.O4BDNBMM.mjs
+
+19:27:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/zg9EaMlwY38gtvGCoBiuTzyhfA.png
+
+19:27:41	Warning: 	HTML file (268020 bytes) retransferred due to lack of cache: https://home/blog/can-men-get-utis-too
+
+19:27:48	Warning: 	HTML file (326525 bytes) retransferred due to lack of cache: https://home/blog/urinary-tract-infection-101
+
+19:27:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/e9nTGY806aOPAgErw32kWcnFs.png
+
+19:27:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/mKzjvdnXpJ1c38ENNL9XbDayY.png
+
+19:27:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/CFOOCxYpZm6ExEUUz6GpVUw.webp
+
+19:27:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/VrC7ju7gxNQ4SBtDO9L3bgGoramfH1EUTrzj9IfmGI4.3WMHMZZV.mjs
+
+19:27:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/2MFsvqXnweWKf1OMcQ2Lmn8dRE.png
+
+19:27:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/LAZ6H5aXj6b5iZ6wsntOIgEsLvQ.jpg
+
+19:27:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/OKEhbX7j8qnTwpvz30KGPDocOSs.png
+
+19:27:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/UFmaPzw5WdjkmV4e6Y7M9YDy3s.jpg
+
+19:27:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/g8XqeVrtRc9F4cdLhRUvzxR6uSg.png
+
+19:27:58	Warning: 	HTML file (270091 bytes) retransferred due to lack of cache: https://home/blog/world-mental-health-day
+
+19:27:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/eSpeyiFwzbyiIpFVldj4bHr4ig4.png
+
+19:27:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/qh8gCQRf6V26VkcqJCm1eR5gc.png
+
+19:28:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/gJsHsQ8xBvfEVX46uVRBkoBzY.png
+
+19:28:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/q4XeyGAJ9thSR693YsIK3vl4r7Q.png
+
+19:28:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/3PYMFsgRWVm5bNrtRscNwmH1c.png
+
+19:28:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/E5gELwPRjWPlC1KPv9dF7ehoLpk.png
+
+19:28:03	Warning: 	Unable to test https://www.nhs.uk/planners/pregnancycareplanner/documents/bandbf_pelvic_floor_women.pdf (loop to same filename)
+
+19:28:03	Warning: 	link is probably looping, type unknown, aborting: https://www.nhs.uk/planners/pregnancycareplanner/documents/bandbf_pelvic_floor_women.pdf
+
+19:28:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/Nwriz2skNEKkZu5vXqpGGCKfpY.png
+
+19:28:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/5mm1cJfvOsfRwqztye1swYLTX6s.jpg
+
+19:28:08	Warning: 	HTML file (265933 bytes) retransferred due to lack of cache: https://home/blog/cystitis-test-symptoms-and-treatment
+
+19:28:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/we9jpJtToLMxHwjeEC7tbmzHds.jpg
+
+19:28:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/Kl82UG0gxUnmmmgIfor8VSdsGAE.png
+
+19:28:16	Warning: 	HTML file (261137 bytes) retransferred due to lack of cache: https://home/blog/uti-infections-during-menopause
+
+19:28:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/6FeOyrQqMynUg0qvI3WILZ/FaCNMYSyhHg-M3chBi548H-pfOTbBWCllQguTJOKUH0.FRMQ3ESN.mjs
+
+19:28:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/Gia1wUP4pqR2Ow4lY9O1/VHuROl1N9HXETrED5CYk/W9unHulOG.js
+
+19:28:23	Warning: 	HTML file (263407 bytes) retransferred due to lack of cache: https://home/blog/tips-for-carers-understanding-symptoms
+
+19:28:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/u2Hu1y9ORYd6KxEiJZx0/LxTNkq1lARgRJOPFI1jC/qMNZjk7PJ.js
+
+19:28:30	Warning: 	HTML file (262488 bytes) retransferred due to lack of cache: https://home/blog/cystitis-what-is-it-and-how-do-i-get-help
+
+19:28:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/b6K1oC1uccZPpTstCvMu/A5k7bC630NoZDR1N49eD/D_oMfni3U.js
+
+19:28:37	Warning: 	HTML file (264544 bytes) retransferred due to lack of cache: https://home/blog/utisandpregnancy
+
+19:28:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/OlCmeN4XZZJTWTlPfjGm/24lsClR7gMHDU7lEPdc8/Or2sBBfI_.js
+
+19:28:49	Warning: 	HTML file (262347 bytes) retransferred due to lack of cache: https://home/blog/confusion-around-utis-sees-women-mistaking-symptoms
+
+19:28:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/ucoZx7m40kQxkdbvPahI/xs4yI6w2UXC9jWgMRn0T/fyxHY82ZH.js
+
+19:28:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/epgbwiBwl3tArWHIOZdM/p79gF90WLbWcEen2ZWd5/LjoRI99kP.js
+
+19:28:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/jpxTYlg8J7j8zPMbZVpF/e9Fe6hD7WkGFSF8ulX5j/M81GEfmDX.js
+
+19:28:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/DEt5THHDu8mZsxXjQgB3/vmE7PK3is9uknFNkqna9/pENU14rIX.js
+
+19:28:58	Warning: 	HTML file (262602 bytes) retransferred due to lack of cache: https://home/blog/top-new-health-trends-for-2021
+
+19:28:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/kjmjrlbXlFzY877fS1ck/yX63S0J9YzWjteNI0jcx/sSi9d5mj6.js
+
+19:29:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/fHtX6Kqeh4qtGd3ScnV7/4GrfDcMljbkaZ16KmKRL/aGppwdNJt.js
+
+19:29:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/Knk5JIIexJavyUQUuC7v/F9Phfob1Y5DlATjfA4Rd/Ho_WoE6nO.js
+
+19:29:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/V2DRFsQiVxRwCjLNx8uN/Md5ruDNRHzk9sH2GRGBX/fMGAOSjoO.js
+
+19:29:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/CVZsmcR8arLwjzdGNLpK/nHFcpyNxOcXoggM8gF8M/YwXLCv8q4.js
+
+19:29:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/OVPIKg9SqTKLYD2fRPAF/5sldwpkloGXl3ftz55VY/rAR4SD3aA.js
+
+19:29:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/AGt0jAlxnlx75tDtw4Na/XnhIwtiNz8irSx2LaucO/owro08sGw.js
+
+19:29:07	Warning: 	HTML file (261827 bytes) retransferred due to lack of cache: https://home/blog/common-myths-about-utis-that-may-be-damaging-your-health
+
+19:29:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/b8aeeOK8tZBMHJHGUdFX/pqiPZZn74wzWxDQMkLlG/cs6w6lDlb.js
+
+19:29:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/E4LNkxrytRtwp0F50RVq/sTg7dG9qTTXMmQWkGNy2/aImOJki8P.js
+
+19:29:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/POaFmgybOjAbEIIlrVDm/eRmGoxXdxJT5kRNehCst/TdU3sThp3.js
+
+19:29:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/XUi3Sok9Z1wuYPxuQFG3/2QC5eDw9ZrMmK948zB2V/AomqHaOxD.js
+
+19:29:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/m1ZD9HQdXdpO2wlCWpnm/cXLHbhMQraGbmPelOQtU/KBlFSas6i.js
+
+19:29:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/9zRwI9mwTWu6RWDulFVr/Rd8Q7c8QKO7fmko3vfcp/asxNLoHzW.js
+
+19:29:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/TasCLN67Tz5cgDoHLZyH/G2e10Jv6JvLyxqojlQve/wPmQ_yRaQ.js
+
+19:29:13	Warning: 	HTML file (266280 bytes) retransferred due to lack of cache: https://home/blog/nutrition-and-hydration-week
+
+19:29:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/lWBoG4MHb8YIB0GThFGe/SPekZ4IgzX59Yw95yf13/vndjQ0vUm.js
+
+19:29:17	Warning: 	HTML file (271274 bytes) retransferred due to lack of cache: https://home/blog/world-continence-week
+
+19:29:21	Warning: 	Unable to test https://www.nhs.uk/planners/pregnancycareplanner/documents/bandbf_pelvic_floor_women.pdf (loop to same filename)
+
+19:29:21	Warning: 	link is probably looping, type unknown, aborting: https://www.nhs.uk/planners/pregnancycareplanner/documents/bandbf_pelvic_floor_women.pdf
+
+19:29:21	Warning: 	HTML file (272024 bytes) retransferred due to lack of cache: https://home/blog/does-drinking-cranberry-juice-help-prevent-uti
+
+19:29:25	Warning: 	HTML file (275545 bytes) retransferred due to lack of cache: https://home/blog/are-antibiotics-safe-for-uti-pregnancy
+
+19:29:27	Warning: 	HTML file (275061 bytes) retransferred due to lack of cache: https://home/blog/how-to-prevent-uti-after-menopause
+
+19:29:29	Warning: 	HTML file (264368 bytes) retransferred due to lack of cache: https://home/blog/how-do-doctors-test-for-uti
+
+19:29:34	Warning: 	HTML file (261354 bytes) retransferred due to lack of cache: https://home/blog/learn-how-to-test-detect-a-uti-the-at-home-test-kit
+
+19:29:41	Warning: 	HTML file (263143 bytes) retransferred due to lack of cache: https://home/blog/learn-how-to-test-detect-a-uti-gps-vs-at-home-testing
+
+19:29:45	Error: 	"Not Found" (404) at link https://static.googleusercontent.com/media/try.crashlytics.com/en//terms/privacy-policy.pdf (from https://home/cookie-policy)
+
+19:29:45	Warning: 	HTML file (359998 bytes) retransferred due to lack of cache: https://home/blog-filters/symptoms-and-risks
+
+19:29:56	Error: 	"Not Found" (404) at link https://elmor.com.mx/ARTICULOS/IRCILUS/EAU-Guidelines-on-Urological-infections-2020.pdf (from https://home/blog/support-a-partner-with-uti)
+
+19:29:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://framerusercontent.com/images/Lm7MCFJqpsYsEyBRyIvsykkDtM.png (from https://home/blog/here-comes-the-science-bit)
+
+19:29:56	Warning: 	HTML file (240261 bytes) retransferred due to lack of cache: https://home/blog-filters/health-tech
+
+19:29:59	Error: 	"Not Found" (404) at link https://www.total-wellness.co.uk/wp-content/uploads/Alkalising-Food-Chart.pdf (from https://home/blog/nutrition-and-hydration-week)
+
+19:29:59	Error: 	"Not Found" (404) at link https://www.theurologyfoundation.org/images/World_Continence_Week/WCW19_Incontinence_the_causes_download.pdf (from https://home/blog/world-continence-week)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 43 seconds : 293 links scanned, 427 files written (51808245 bytes overall), 425 files updated [30918664 bytes received at 59117 bytes/sec], 25557629 bytes transferred using HTTP compression in 170 files, ratio 14%, 3.0 requests per connection
+
+(7 errors, 151 warnings, 0 messages)
+
