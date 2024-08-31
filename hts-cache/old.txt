@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+19:19:50	0/0	---M--	308	error ('Permanent%20Redirect')	text/html	date:Sat,%2031%20Aug%202024%2016:19:51%20GMT	http://testcard.com/robots.txt		(from )
+19:19:51	0/0	---M--	308	error ('Permanent%20Redirect')	text/html	date:Sat,%2031%20Aug%202024%2016:19:51%20GMT	http://testcard.com/	C:/Users/Sukuna/Desktop/sites/testcardv2/testcard.com/index.html	(from )
+19:19:51	0/0	---M--	308	error ('Permanent%20Redirect')	text/html	date:Sat,%2031%20Aug%202024%2016:19:52%20GMT	http://testcard.com/	C:/Users/Sukuna/Desktop/sites/testcardv2/testcard.com/index.html	(from )

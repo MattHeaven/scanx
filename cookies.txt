@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+total-wellness.co.uk	TRUE	/	FALSE	1999999999	PHPSESSID	3910oj49uopd30o2vr7sdr0gd9
+total-wellness.co.uk	TRUE	/	FALSE	1999999999	SameSite	Lax
+.mind.org.uk	TRUE	/	FALSE	1999999999	__cf_bm	E9UIRBSyrQRdH2.UtHfZ9IPf7FsxQ1OMh9SKArllcBQ-1725121692-1.0.1.1-pSJnPc.ooWoi.ug4G622gZPYfeOzFNRK.9qgtWdIYAF1jYlgTlOQHJ6QdByBYhoejGnwIfOhwBy4HeNmIY82ow
+.mind.org.uk	TRUE	/	FALSE	1999999999	__cfruid	7517e2188dadcee560714cfdd3b7ad35a737559b-1725121692
+www.mind.org.uk	TRUE	/	FALSE	1999999999	SameSite	None
+
